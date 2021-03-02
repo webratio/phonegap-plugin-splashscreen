@@ -29,9 +29,9 @@
     <issue>https://issues.apache.org/jira/browse/CB/component/12320653</issue>
 
     <engines>
-        <engine name="cordova-android" version=">=3.6.0" /><!-- Requires CordovaPlugin.preferences -->
-        <engine name="cordova-ios" version="<6.0.0" />
-        <engine name="cordova-windows" version=">=4.4.0" />
+        <engine name="cordova-android" version="&gt;=3.6.0" /><!-- Requires CordovaPlugin.preferences -->
+        <engine name="cordova-ios" version="&lt;6.0.0" />
+        <engine name="cordova-windows" version="&gt;=4.4.0" />
     </engines>
 
     <js-module src="www/splashscreen.js" name="SplashScreen">
